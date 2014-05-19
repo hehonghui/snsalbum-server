@@ -6,5 +6,5 @@
 
 *   3、服务器数据库管理地址 : http://localhost/phpmyadmin/
 
-  考虑继续部署到公网。
+  考虑继续部署到公网,IM问题。
 snsalbum-server
